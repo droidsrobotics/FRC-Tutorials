@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Complimentary Robots
+title: "Control Systems"
 image: "assets/images/RobotGame/GenericLesson.png"
 searchterms:
 lang: "en"
@@ -11,5 +11,5 @@ featured: true
 ---
 
 Slides:
-<a href="/translations/en-us/RobotGame/ComplimentaryRobots.pptx">PPTX</a>,
-<a href="/translations/en-us/RobotGame/ComplimentaryRobots.pdf">PDF</a>
+<a href="/translations/en-us/RobotGame/.pptx">PPTX</a>,
+<a href="/translations/en-us/RobotGame/.pdf">PDF</a>

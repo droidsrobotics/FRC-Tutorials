@@ -1,5 +1,5 @@
 ---
-title: "Season Timeline"
+title: "Roles and Responsibilities"
 searchterms:
 layout: post
 language: "en"
@@ -11,5 +11,5 @@ featured: false
 ---
 
 Slides:
- <a href="/translations/en-us/TeamManagement/Timeline.pptx">PPTX</a>,
- <a href="/translations/en-us/TeamManagement/Timeline.pdf">PDF</a>
+ <a href="/translations/en-us/TeamManagement/.pptx">PPTX</a>,
+ <a href="/translations/en-us/TeamManagement/.pdf">PDF</a>
