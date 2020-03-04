@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" href="{{ site.baseurl }}/{{ site.favicon }}">
+<title>{{ page.title }} | {{site.name}}</title>
+{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i,700,700i" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
+
+{{site.sharethis}}
+
+{% if jekyll.environment == 'production' %}
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '{{site.google_analytics}}', 'auto');
+  ga('send', 'pageview');
+</script>
+{% endif %}
+
+
+
+</head>
+
+
+
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+<body class="{{ layout }}">
+
+
+<!-- Begin Menu Navigation
+================================================== -->
+<header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="container">
+
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="{{ site.baseurl }}/">
+        <img src="{{ site.baseurl }}/{{ site.logo }}" width="200" alt="{{ site.name }}">
+        </a>
+        <!-- End Logo -->
+
+        <!-- Begin Menu -->
+        <div class="collapse navbar-collapse text-centered" id="navbarsWow">
+
+            <!-- Begin Menu -->
+            <ul class="navbar-nav ml-auto">
+
+                <li style="position:relative;vertical-align:middle" class="nav-item">
+                <a style="position:relative;vertical-align:middle" class="nav-link" href="{{ site.baseurl }}/index.html">Home</a>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Tutorials</a>
+                    <div class="dropdown-menu" aria-labelledby="dropdown01">
+                    <a class="dropdown-item" href="{{ site.baseurl }}/Robot.html">Robot</a>
+                    <a class="dropdown-item" href="{{ site.baseurl }}/CoreValues.html">Core Values</a>
+                    <a class="dropdown-item" href="{{ site.baseurl
+                    }}/TeamManagement.html">Team Management</a>
+
+                    </div>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="{{ site.baseurl }}/assets/images/InfiniteRecharge.png"  width="50">Resources</a>
+
+
+                    <div class="dropdown-menu" aria-labelledby="dropdown01">
+
+                      <a class="dropdown-item" href="{{ site.baseurl }}/Worksheets.html">Worksheets</a>
+
+<!--
+<a class="dropdown-item" href="{{ site.baseurl }}/Resources/2019/scorer/index.html"> Scorer</a>
+<a class="dropdown-item" href="{{ site.baseurl }}/Resources/2019/drawplan/index.html"> Sketch Planner</a>
+<a class="dropdown-item" href="{{ site.baseurl }}/ResourceArchive.html">Past Seasons</a>
+                    <a class="dropdown-item" href="{{ site.baseurl }}/Scorer.html">Scorer</a>
+                    <a class="dropdown-item" href="{{ site.baseurl }}/DrawPlan.html">Strategy Planner</a>
+                    <a class="dropdown-item" href="{{ site.baseurl }}/Resources.html">Other</a>
+                    <a class="dropdown-item" href="{{ site.baseurl }}/Archive.html">Past Seasons</a>
+                  -->
+                    </div>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/CoachCorner.html">Coach's Corner</a>
+                </li>
+
+
+
+            </ul>
+            <!-- End Menu -->
+
+        </div>
+    </div>
+</header>
+
+
+
+<!-- End Menu Navigation
+================================================== -->
+
+<div class="site-content">
+
+    <div class="container-fluid">
+
+    <!-- Site Title
+    ================================================== -->
+
+    <div class="mainheading" style="display:none;">
+        <h1 class="sitetitle">{{ site.name }}</h1>
+        <p class="lead">
+             {{ site.description }}
+        </p>
+    </div>
+
+
+    <!-- Content
+    ================================================== -->
+    <div class="main-content">
+        {{ content }}
+    </div>
+
+    </div><!-- /.container -->
+
+
+
+
+    <!-- Begin Footer
+    ================================================== -->
+    <footer class="footer">
+
+        <div class="container-fluid">
+
+            <div class="row">
+
+                <div class="col-sm-3">
+                <div class="footer-widget">
+                <h5 class="title">Our Sites</h5>
+                <ul>
+                <li><a target="_blank" href="https://www.ev3lessons.com">EV3Lessons.com</a></li>
+                <li><a target="blank" href="https://www.droidsrobotics.org">Droids Robotics</a></li>
+                <li><a target="blank" href="http://beyondtheinstructions.com">Beyond The Instructions</a></li>
+                <li><a target="blank" href="https://flltutorials.com">FLLTutorials.com</a></li>
+                <li><a target="blank" href="https://www.facebook.com/groups/FLLShareandLearn/">FLL Share and Learn (FB Group)</a></li>
+                </ul>
+                </div>
+                </div>
+
+                <div class="col-sm-3">
+                <div class="footer-widget">
+                <h5 class="title">Contact Us</h5>
+                <ul>
+                <li><a href="mailto:team@flltutorials.com">
+                  <i class="fa fa-envelope"></i> Email
+                </a></li>
+                <li><a target="_blank" href="https://www.facebook.com/FLLtutorials/">
+                  <i class="fa fa-facebook"></i> Facebook
+                </a></li>
+                <li><a target="_blank" href="https://twitter.com/FllTutorials/">
+                  <i class="fa fa-twitter"></i> Twitter
+                </a></li>
+                <li><a target="_blank" href="https://www.youtube.com/channel/UCNolfy4KiFUZmjSHg8iJ7-A">
+                  <i class="fa fa-youtube"></i> YouTube
+                </a></li>
+                </ul>
+                </div>
+                </div>
+
+                <div class="col-sm-6">
+                <div class="footer-widget textwidget">
+                    <h5 class="title">About Us</h5>
+                    <p>This website was founded in 2020 as part of the
+                family of resources provided to support FIRST teams.
+                      This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+                      <br><br><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+                </div>
+                </div>
+            </div>
+
+
+        </div>
+
+
+    <!-- End Footer
+    ================================================== -->
+    <!-- Before Footer
+    ================================================== -->
+    <div class="beforefooter">
+          <p class="pull-right">
+          Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
+          </p>
+    </div>
+    </footer>
+
+</div> <!-- /.site-content>
+
+<!-- JavaScript
+================================================== -->
+
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+<script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+<script type='text/javascript' src='{{ site.baseurl }}/assets/js/masonry.pkgd.min.js'></script>
+
+<script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+
+</body>
+
+</html>

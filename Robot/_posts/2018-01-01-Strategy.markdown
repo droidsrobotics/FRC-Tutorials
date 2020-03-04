@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Developing a Game Strategy"
+image: "assets/images/RobotGame/GenericLesson.png"
+searchterms:
+lang: "en"
+categories: Strategy
+author: 8027
+tag: RobotGame
+featured: true
+---
+
+Slides:
+<a href="/translations/en-us/RobotGame/Strategy.pptx">PPTX</a>,
+<a href="/translations/en-us/RobotGame/Strategy.pdf">PDF</a>
