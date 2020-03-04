@@ -10,8 +10,3 @@ tag: CoreValues
 featured: true
 excerpt_separator: <!--more-->
 ---
- <li class="ng-binding">Slides:
- <a href="/translations/en-us/CoreValues/Chairmans.pptx">PPTX</a>,
- <a href="/translations/en-us/CoreValues/Chairmans.pdf">PDF</a>
-
- </li>

@@ -9,7 +9,3 @@ categories: Research
 tag: Project
 featured: false
 ---
-
-Slides:
- <a href="/translations/en-us/TeamManagement/TeamMembers.pptx">PPTX</a>,
- <a href="/translations/en-us/TeamManagement/TeamMembers.pdf">PDF</a>
