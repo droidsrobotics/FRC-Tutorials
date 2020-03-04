@@ -1,5 +1,5 @@
 ---
-title: "Bill of Materials""
+title: "Bill of Materials"
 searchterms:
 layout: post
 language: "en"
