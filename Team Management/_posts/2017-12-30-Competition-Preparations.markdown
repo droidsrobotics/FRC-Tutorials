@@ -1,13 +1,13 @@
 ---
-layout: post
-title: Inspection
-image: "assets/images/RobotGame/GenericLesson.png"
+title: "Competition Preparations"
 searchterms:
-lang: "en"
-categories: Strategy
+layout: post
+language: "en"
+image: "assets//images/Project/GenericLesson.png"
 author: 8027
-tag: RobotGame
-featured: true
+categories: Research
+tag: Project
+featured: false
 ---
 Team 8027<br>
 Coming Soon
