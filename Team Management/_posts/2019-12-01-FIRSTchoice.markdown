@@ -6,7 +6,7 @@ language: "en"
 image: "assets//images/Project/GenericLesson.png"
 author: 8027
 categories: Team Management
-tag: Project
+tag: TeamManagement
 featured: false
 ---
 

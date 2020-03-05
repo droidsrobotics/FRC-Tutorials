@@ -23,7 +23,7 @@ comments: true
 
             {% for post in site.posts %}
 
-                {% if post.tag == "Project" %}
+                {% if post.tag == "TeamManagement" %}
                     {% unless post.categories contains "draft" %}
 
                         {% include postlist.html %}

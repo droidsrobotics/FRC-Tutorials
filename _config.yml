@@ -7,16 +7,12 @@ logo: 'assets/images/FRCTutorials.png'
 favicon: 'assets/images/favicon-96x96.png'
 baseurl:
 email: 'team@ev3lessons.com'
-google_analytics: 'UA-65893558-3'
+google_analytics: 'UA-65893558-5'
 disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5b19a5338e56ee0011c80480&product=sticky-share-buttons"></script>'
 # Authors
 authors:
-  Caroline:
-    name: Caroline Hanson
-    display_name: Caroline
-    description: "Educator"
-    image: assets/images/people/Caroline.jpg
+ 
   Droids:
     name: Not the Droids You Are Looking For
     display_name: Droids
@@ -64,136 +60,7 @@ authors:
     display_name: Faith
     description: From South Carolina, USA
     image: assets/images/people/female.jpg
-  Leonardo:
-    name: Leonardo Curtolo
-    display_name: Leonardo
-    description: From Brazil
-    image: assets/images/people/insabots.png
-  Gloria:
-    name: Gloria Gibson
-    display_name: Gloria
-    description: Coach for the Tazbots.
-    image: assets/images/people/tazbots.jpg
-  Carrie:
-    name: Carrie Koepke
-    display_name: Carrie
-    description: Coach for the Final Elements.
-    image: assets/images/people/finalelements.jpg
-  Emily:
-    name: Emily Viehland
-    display_name: Emily
-    description: Coach for the Crabby Couple.
-    image: assets/images/people/female.jpg
-  Jucain:
-    name: Jucain Butler
-    display_name: Jucain
-    description: Coach for the Patriots TTC.
-    image: assets/images/people/male.png
-  Jean:
-    name: Jean Findley-Williams
-    display_name: Jean
-    description: Coach for the Bayou Builders.
-    image: assets/images/people/female.jpg
-  Clueless:
-    name: Clueless Dad
-    display_name: Clueless Dad
-    description: Coach for Tesla Foil.
-    image: assets/images/people/nerd.png
-  Andy:
-    name: Andy Milluzzi
-    display_name: Andy
-    description: FIRST® Senior Mentor<br>LEGO®MINDSTORMS® Community Partner
-    image: assets/images/people/andy.jpg
-  Rob:
-    name: Rob Humfeld
-    display_name: Rob
-    description: Coach for The Fantastic LEGO Ladies
-    image: assets/images/people/ladies.jpg
-  Toxic:
-    name: FTC Toxic
-    display_name: FTC Toxic
-    description: FTC team Toxic.
-    image: assets/images/people/toxiclogo.jpg
-  Haruna:
-    name: Haruna Cofer
-    display_name: Haruna
-    description: Coach for the Incredibots.
-    image: assets/images/people/female.jpg
-  World:
-    name: World Changers
-    display_name: World Changers
-    description: World Changers from Iowa, USA
-    image: assets/images/people/worldchangers.jpg
-  FTC6041:
-    name: FTC 6041
-    display_name: FTC 6041
-    description: Coach for FTC 6041
-    image: assets//images/people/female.jpg
-  Multiple:
-    name: Multiple
-    display_name: Multiple
-    description: This article has multiple authors.
-    image: assets/images/people/group.jpg
-  Michael:
-    name: Michael Graffin
-    display_name: Michael
-    description: Robotics teacher at IONA Primary School in Australia.
-    image: assets/images/people/graffin.jpg
-  Kirk:
-    name: Ken Kirk
-    display_name: Ken
-    description: Coach at ELECTRIC LEGOs
-    image: assets/images/people/Elegos.jpg
-  Angela:
-    name: Angela Wellink
-    display_name: Angela
-    description: Coach at NXT Generation
-    image: assets/images/people/NXTSupport.jpg
-  Swati:
-    name: Swati Mittal
-    display_name: Swati
-    description: Coach at NXT Generation
-    image: assets/images/people/female.jpg
-  Chad:
-    name: Chad Houck
-    display_name: Chad
-    description: Coach at High Voltage Couch Bananas
-    image: assets/images/people/bananas.jpg
-  FTC8496:
-    name: FTC 8496
-    display_name: FTC 8496
-    description: FTC Heat it Up and Keep it Cool
-    image: assets/images/people/heatitup.png
-  Kaia:
-    name: Kaia
-    display_name: Kaia
-    description: Xanterra
-    image: assets/images/people/kaia.jpg
-  Amy:
-    name: Amy Heider Brown
-    display_name: Amy
-    description: Coach of Team Hyperbolics
-    image: assets/images/people/female.jpg
-  Stephanie:
-    name: Stephanie Ozenne
-    display_name: Stephanie
-    description: Coach of Team Rejecting Reality
-    image: assets/images/people/female.jpg
-  Kalai:
-    name: Kalai Sankar
-    display_name: Stephanie
-    description: Coach of Team Master Builders
-    image: assets/images/people/KalaiSankar.jpg
-  Incredibots:
-    name: Incredibots
-    display_name: Incredibots
-    description: 2016 World Festival St.Louis Champion's award winner
-    image: assets/images/people/Incredibots.jpg
-  Red:
-    name: Red Rabbit
-    display_name: Red Rabbit
-    description: 2018 World Festival Houston Champion's award winner
-    image: assets/images/people/RedRabbit.jpg
+  
   ManjiriMcCoy:
       name: Manjiri McCoy
       display_name: Manjiri McCoy

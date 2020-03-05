@@ -6,6 +6,6 @@ language: "en"
 image: "assets//images/Project/GenericLesson.png"
 author: SeshanBrothers
 categories: Research
-tag: Project
+tag: TeamManagement
 featured: false
 ---

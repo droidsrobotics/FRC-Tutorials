@@ -10,8 +10,8 @@ tag: CoreValues
 featured: true
 excerpt_separator: <!--more-->
 ---
- <li class="ng-binding">Slides:
- <a href="/translations/en-us/CoreValues/Outreach.pptx">PPTX</a>,
- <a href="/translations/en-us/CoreValues/Outreach.pdf">PDF</a>
 
- </li>
+Coming Soon
+
+FRC Alumni
+

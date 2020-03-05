@@ -15,9 +15,9 @@ comments: true
 
         <section class="all-posts">
 
-            <div class="section-title">
-                <h2><span>All Posts</span></h2>
-            </div>
+        <div class="section-title text-center">
+            <h1>Core Values and Judging</h1>
+        </div>
 
             <div class="row listfeaturedtag">
 
