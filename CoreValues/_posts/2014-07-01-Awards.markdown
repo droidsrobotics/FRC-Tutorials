@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Awards"
+searchterms:
+image: "assets/images/CoreValues/GenericLesson.png"
+lang: "en"
+author: BayouBuilders
+categories:  [ Judging]
+tag: CoreValues
+featured: true
+excerpt_separator: <!--more-->
+---
+
