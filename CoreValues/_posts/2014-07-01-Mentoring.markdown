@@ -10,8 +10,3 @@ tag: CoreValues
 featured: true
 excerpt_separator: <!--more-->
 ---
- <li class="ng-binding">Slides:
- <a href="/translations/en-us/CoreValues/Mentoring.pptx">PPTX</a>,
- <a href="/translations/en-us/CoreValues/Mentoring.pdf">PDF</a>
-
- </li>
