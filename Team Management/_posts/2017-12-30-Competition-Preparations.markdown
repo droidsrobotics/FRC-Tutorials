@@ -14,4 +14,4 @@ Team 8027<br>
 
 Slides:
  <a href="/translations/en-us/TeamManagement/CompetitionPreparation.pptx">PPTX</a>,
- <a href="/translations/en-us/TeamManagement/CompetittionPreparation.pdf">PDF</a>
+ <a href="/translations/en-us/TeamManagement/CompetitionPreparation.pdf">PDF</a>

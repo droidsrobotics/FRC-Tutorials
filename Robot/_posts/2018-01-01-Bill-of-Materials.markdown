@@ -13,4 +13,4 @@ Team 8027<br>
 
 Slides:
  <a href="/translations/en-us/Robot/BOM.pptx">PPTX</a>,
- <a href="/translations/en-us/Robot/COM.pdf">PDF</a>
+ <a href="/translations/en-us/Robot/BOM.pdf">PDF</a>
