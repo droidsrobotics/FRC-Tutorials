@@ -4,7 +4,7 @@ title: "Doing Oureach"
 searchterms:
 image: "assets/images/CoreValues/GenericLesson.png"
 lang: "en"
-author: BayouBuilders
+author: Alex Ronnebaum
 categories:  [ Judging]
 tag: CoreValues
 featured: true
