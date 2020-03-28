@@ -11,7 +11,9 @@ featured: true
 excerpt_separator: <!--more-->
 ---
 
-Coming Soon
+FIRST Alum & FRC 128<br>
 
-FRC Alumni
+Slides:
+ <a href="/translations/en-us/CoreValues/DoingOutreach.pptx">PPTX</a>,
+ <a href="/translations/en-us/CoreValues/DoingOutreach.pdf">PDF</a>
 
