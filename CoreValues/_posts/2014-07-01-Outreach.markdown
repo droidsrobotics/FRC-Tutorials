@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Doing Oureach"
-searchterms:
+title: Doing Oureach
 image: "assets/images/CoreValues/GenericLesson.png"
+searchterms:
 lang: "en"
+categories:  Judging
 author: Alex Ronnebaum
-categories:  [ Judging]
 tag: CoreValues
 featured: true
-excerpt_separator: <!--more-->
 ---
 
 FIRST Alum & FRC 128<br>
