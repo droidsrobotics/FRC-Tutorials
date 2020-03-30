@@ -13,7 +13,7 @@ title: Home
 <section class="intro">
     <div class="wrapintro">
         <h1>FRC Tutorials<br>teach - share - learn</h1>
-        <h2 class="lead">This website is powered by FRC 8027 who have 10 years of experience participating in FIRST and have created various resources for FIRST teams including FLLTutorials, EV3Lessons and the Share & Learn groups.
+        <h2 class="lead">This website is powered by FRC 8027 in collaboration with other FIRST Teams.
         <br> <br>
         Through this website, we hope to create a community for FRC teams to share their best practices for getting the most out of your FIRST Robotics Competition journey. Our goal is to teach, share, and learn together.</h2>    
 
