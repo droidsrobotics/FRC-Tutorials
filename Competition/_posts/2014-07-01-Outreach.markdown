@@ -1,0 +1,17 @@
+---
+layout: post
+title: Doing Oureach
+image: "assets/images/CoreValues/GenericLesson.png"
+searchterms:
+lang: "en"
+categories:  Judging
+author: Alex Ronnebaum
+tag: Competition
+featured: true
+---
+
+FIRST Alum & FRC 128<br>
+
+Slides:
+ <a href="/translations/en-us/Competition/DoingOutreach.pptx">PPTX</a>,
+ <a href="/translations/en-us/Competition/DoingOutreach.pdf">PDF</a>

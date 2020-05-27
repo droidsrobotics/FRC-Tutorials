@@ -1,0 +1,17 @@
+---
+layout: post
+title: Scouting
+image: "assets/images/CoreValues/GenericLesson.png"
+searchterms:
+lang: "en"
+categories:  
+author: 4150
+tag: Competition
+featured: true
+---
+
+FRC 4150<br>
+
+Slides:
+ <a href="/translations/en-us/Competition/Scouting.pptx">PPTX</a>,
+ <a href="/translations/en-us/Competition/Scouting.pdf">PDF</a>

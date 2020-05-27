@@ -5,7 +5,13 @@ image: "assets/images/RobotGame/GenericLesson.png"
 searchterms:
 lang: "en"
 categories: Strategy
-author: 8027
+author: 4150
 tag: RobotGame
 featured: true
 ---
+
+Team 4150<br>
+
+Slides:
+ <a href="/translations/en-us/Robot/UsefulSensors.pptx">PPTX</a>,
+ <a href="/translations/en-us/Robot/UsefulSensors.pdf">PDF</a>

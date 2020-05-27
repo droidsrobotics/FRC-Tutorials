@@ -1,0 +1,12 @@
+---
+layout: post
+title: "How does Judging Work?"
+searchterms:
+image: "assets/images/CoreValues/GenericLesson.png"
+lang: "en"
+author: BayouBuilders
+categories:  [ Judging]
+tag: Competition
+featured: true
+excerpt_separator: <!--more-->
+---

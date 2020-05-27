@@ -9,3 +9,8 @@ author: 8027
 tag: RobotGame
 featured: true
 ---
+Team 4150r>
+
+Slides:
+ <a href="/translations/en-us/Robot/GameStrategy.pptx">PPTX</a>,
+ <a href="/translations/en-us/Robot/GameStrategy.pdf">PDF</a>
