@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vision Systems for FRC"
+title: "Introduction to Vision Targeting"
 image: "assets/images/RobotGame/GenericLesson.png"
 searchterms:
 lang: "en"
@@ -9,5 +9,8 @@ author: 8027
 tag: RobotGame
 featured: true
 ---
-Team 8027 <br>
-Coming Soon
+Team 4150<br>
+
+Slides:
+ <a href="/translations/en-us/VisionTargetingIntro.pptx">PPTX</a>,
+ <a href="/translations/en-us/Robot/VisionTargetingIntro.pdf">PDF</a>

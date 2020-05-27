@@ -14,4 +14,4 @@ Team 4150<br>
 
 Slides:
  <a href="/translations/en-us/TeamManagement/RolesResponsibilities.pptx">PPTX</a>,
- <a href="/translations/en-us/TeamManagement/RoleResponsibilities.pdf">PDF</a>
+ <a href="/translations/en-us/TeamManagement/RolesResponsibilities.pdf">PDF</a>

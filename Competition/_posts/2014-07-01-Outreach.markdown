@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Doing Oureach
+title: Doing Outreach
 image: "assets/images/CoreValues/GenericLesson.png"
 searchterms:
 lang: "en"
