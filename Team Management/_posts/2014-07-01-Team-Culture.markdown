@@ -6,7 +6,7 @@ image: "assets/images/CoreValues/GenericLesson.png"
 lang: "en"
 author: FRC 624
 categories:  [ Judging]
-tag: Competition
+tag: TeamManagement
 featured: true
 excerpt_separator: <!--more-->
 ---

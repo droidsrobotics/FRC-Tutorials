@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Creating a Team Identity"
+title: "Lobbying for STEM Center"
 searchterms:
 image: "assets/images/CoreValues/GenericLesson.png"
 lang: "en"
 author: FRC 624
 categories:  [ Judging]
-tag: Competition
+tag: TeamManagement
 featured: true
 excerpt_separator: <!--more-->
 ---
