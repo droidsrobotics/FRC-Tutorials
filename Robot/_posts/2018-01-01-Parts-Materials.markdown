@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bumper Basics
+title: Robot Parts and Materials
 image: "assets/images/RobotGame/GenericLesson.png"
 searchterms:
 lang: "en"
