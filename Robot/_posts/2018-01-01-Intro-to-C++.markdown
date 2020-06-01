@@ -5,8 +5,13 @@ image: "assets/images/RobotGame/GenericLesson.png"
 searchterms:
 lang: "en"
 categories: Strategy
-author: 8027
+author: 2080
 tag: RobotGame
 featured: true
 ---
 
+Team 2080<br>
+
+Slides:
+ <a href="/translations/en-us/Robot/C++Basics.pptx">PPTX</a>,
+ <a href="/translations/en-us/Robot/C++Basics.pdf">PDF</a>

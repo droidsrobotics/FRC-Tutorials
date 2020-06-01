@@ -10,3 +10,5 @@ tag: Competition
 featured: true
 excerpt_separator: <!--more-->
 ---
+
+Coming Soon
