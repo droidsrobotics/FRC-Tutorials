@@ -11,6 +11,8 @@ featured: true
 excerpt_separator: <!--more-->
 ---
 
-Coming Soon
+FRC 624<br>
 
-FRC 624
+Slides:
+ <a href="/translations/en-us/TeamManagement/TeamCulture.pptx">PPTX</a>,
+ <a href="/translations/en-us/TeamManagement/TeamCulture.pdf">PDF</a>
