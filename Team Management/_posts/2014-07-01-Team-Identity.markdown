@@ -4,13 +4,16 @@ title: "Creating a Team Identity"
 searchterms:
 image: "assets/images/CoreValues/GenericLesson.png"
 lang: "en"
-author: FRC 624
+author: 8027
 categories:  [ Judging]
 tag: TeamManagement
 featured: true
 excerpt_separator: <!--more-->
 ---
 
-Coming Soon
+Team 8027<br>
 
-FRC 624
+
+Slides:
+ <a href="/translations/en-us/TeamManagement/TeanIdentity.pptx">PPTX</a>,
+ <a href="/translations/en-us/TeamManagement/TeamIdentity.pdf">PDF</a>

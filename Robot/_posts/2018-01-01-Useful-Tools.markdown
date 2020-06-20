@@ -9,5 +9,8 @@ author: 8027
 tag: RobotGame
 featured: true
 ---
-Team 8027 <br>
-Coming Soon
+Team 8027<br>
+
+Slides:
+ <a href="/translations/en-us/Robot/UsefulTools.pptx">PPTX</a>,
+ <a href="/translations/en-us/Robot/UsefulTools.pdf">PDF</a>
